@@ -5,8 +5,8 @@ GPIO.setmode(GPIO.BCM)
 
 leds = [16, 12, 25, 17, 27, 23, 22, 24]
 
-up = 13    
-down = 19  
+up = 9   
+down = 10
 
 GPIO.setup(leds, GPIO.OUT)
 GPIO.setup(up, GPIO.IN)
