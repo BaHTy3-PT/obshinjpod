@@ -19,7 +19,6 @@ num = 0
 sleep_time = 0.2     
 
 def dec2bin(value):
-    """Преобразует число 0-255 в список битов (старший бит первый)"""
     return [int(bit) for bit in bin(value)[2:].zfill(8)]
 
 try:
