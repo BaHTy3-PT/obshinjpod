@@ -12,3 +12,5 @@ def wait_for_sampling_period(sampling_frequency):
     """Выжидает один период дискретизации (сек) = 1 / sampling_frequency."""
     period = 1.0 / sampling_frequency
     time.sleep(period)
+
+https://github.com/Kabuto-Mainer/Ant-Get
