@@ -1,5 +1,5 @@
 import time
-import mcp4725_driver
+import mcp4725_driver_4
 import signal_generator as sg
 
 amplitude = 5.0
