@@ -1,5 +1,5 @@
 import time
-import pwm_dac
+import pwm_dac_2
 import signal_generator as sg
 
 amplitude = 3.2
