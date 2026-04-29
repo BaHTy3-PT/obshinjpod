@@ -1,5 +1,5 @@
 import time
-import r2r_dac
+import r2r_dac_2
 import signal_generator as sg
 
 amplitude = 3.2
